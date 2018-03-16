@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/xiongfei/workspace/test'
+let g:netrw_dirhist_2='/Users/xiongfei/workspace/app-spiders/wangyi'
+let g:netrw_dirhist_3='/Users/xiongfei/workspace/app-spiders/toutiao'
+let g:netrw_dirhist_4='/Users/xiongfei/workspace/github/search_engine/xapian-core-1.4.3/backends/multi'
